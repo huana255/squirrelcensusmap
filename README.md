@@ -1,4 +1,4 @@
-# squirrelcensusmap
+# Squirrel Census Map
 
 Source: 
 1. The Squirrel Census. (n.d.). The Squirrel Census. https://www.thesquirrelcensus.com/
